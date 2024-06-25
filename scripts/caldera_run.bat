@@ -1,0 +1,1 @@
+powershell.exe C:\Users\vagrant\Documents\install-caldera-agent.ps1
